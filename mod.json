@@ -1,0 +1,12 @@
+{
+	"Name" : "Legonzaur.HoloMimicShift",
+	"Description" : "holos mimic your movement and shift into them",
+	"Version": "0.1.2",
+	"LoadPriority": 5,
+	
+	"ConVars": [
+	],
+
+	"Scripts": [
+	]
+}
